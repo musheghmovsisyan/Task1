@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServerConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MulticastAddress>224.0.0.3</MulticastAddress>
+  <Port>8080</Port>
+  <StartNumber>10</StartNumber>
+  <EndNumber>1000</EndNumber>
+</ServerConfig>
